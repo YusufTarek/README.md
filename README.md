@@ -25,14 +25,14 @@ As a junior **data analyst**, I'm eager to contribute my **analytical** and **pr
 
 ## Courses and Certificates
 
-- Learn Power BI - Zanoon Lab | Jan 2024
-- Intermediate SQL - Sololearn | Dec 2023
-- Intro to SQL - Sololearn | Dec 2023
-- Data Analytics for Business Professionals - LinkedIn | Nov 2023
-- Intro to Career Skills in Data Analytics - LinkedIn | Nov 2023
-- SQL (Basic) Certificate - HackerRank | Oct 2023
-- Data Analyst Bootcamp - Alex The Analyst | Oct 2023
-- Database Fundamentals - MaharaTech - ITIMooca | May 2023
+- Learn **Power BI** - Zanoon Lab | Jan 2024
+- Intermediate **SQL** - Sololearn | Dec 2023
+- Intro to **SQL** - Sololearn | Dec 2023
+- **Data Analytics** for Business Professionals - LinkedIn | Nov 2023
+- Intro to Career Skills in **Data Analytics** - LinkedIn | Nov 2023
+- **SQL** (Basic) Certificate - HackerRank | Oct 2023
+- **Data Analyst** Bootcamp - Alex The Analyst | Oct 2023
+- **Database** Fundamentals - MaharaTech - ITIMooca | May 2023
 - IELTS (score: 6.5) | Mar 2017
 ---
 ## Skills
@@ -52,22 +52,39 @@ As a junior **data analyst**, I'm eager to contribute my **analytical** and **pr
 
 ## Tools
 
-- SQL
+- **SQL**
+  - Grouping and Sorting
+  - Conditions
+  - Aggregate functions
   - Query Optimization
   - Subqueries
-  - CTEs
+  - CTEs and Temp tables
   - Pivot tables
   - Formulas
-- Power BI
+    
+- **Power BI**
+  - Power Query
+  - DAX
+  - Conditional formatting
   - Drill down
   - Bins and lists
-- Python
+  - Visualizations
+    
+- **Python**
+  - Conditions
+  - Pandas
+  - Aggregate functions
+  - Visualizations
   - Web scraping
-- Excel
+    
+- **Excel**
+  - Pivot Tables
+  - Formulas
   - Power Query
   - Data cleaning
   - Charts and graphs
   - Conditional formatting
+    
 
 ---
 
