@@ -1,42 +1,56 @@
-# Yusuf Tarek - Junior Data Analyst
+# Yusuf Tarek - Data Analyst
 
-## Work Experience
+Hello! I'm Yusuf Tarek, a dedicated computer science graduate with a passion for Business Intelligence (**BI**) and **data analysis**. I bring a diverse skill set, combining proficiency in **SQL**, **Power BI**, **Python**, and **Excel**. With a solid background in IT support, I've honed my technical skills and gained hands-on experience.
 
-**T&D Design, New Cairo**  
-*IT Support | Mar 2022 - Aug 2023*
+My academic journey was concluded with a graduation project focusing on image classification using Convolutional Neural Networks (CNN). Skills were further enhanced through a diverse array of **courses** and **certifications**, encompassing **IELTS**, **Database Fundamentals**, and participation in a **Data Analyst Bootcamp**.
 
-**ELARABY, Cairo**  
-*IT Technical Support | Sep 2023 - Present*
+In the domain of data analysis, diverse **projects** were undertaken, including those related to: 
+  Bike sales
+  Coffee orders
+  Hotels revenue. 
+These projects serve as a testament to the **ability** to translate **raw data** into **meaningful insights**. 
+Proficiency in tools such as **Power BI**, **SQL**, and **Python** is complemented by soft skills, including effective communication, documentation practices, and a meticulous attention to detail.
 
-## Education
 
-**El-Shourok Academy, Cairo**  
-*Bachelor of Computer Science | Sep 2016 - Aug 2020*
+As a junior **data analyst**, I'm eager to contribute my **analytical** and **problem-solving** skills to a dynamic team. Feel free to explore my GitHub repositories for a closer look at my projects and capabilities. Connect with me on LinkedIn or drop me an email at yusuftarek18turk@gmail.com to discuss potential collaborations or opportunities. I'm excited about the prospect of leveraging data to drive informed decisions and make a positive impact!
+
+---
+
 
 ## Projects
-
-- Bike Sales - Excel Project ([GitHub](#))
-- Coffee Orders - Excel Project ([GitHub](#))
-- Hotels Revenue - SQL & PowerBI Project ([GitHub](#))
-- Absenteeism at Work - SQL & PowerBI Project ([GitHub](#))
-- Covid-19 Analysis - SQL Project ([GitHub](#))
-- File Organizer Script - Python Project ([GitHub](#))
-- Customer Call List - Python (Data cleaning) Project ([GitHub](#))
-- World Population - Python (EDA) Project ([GitHub](#))
+###
+**https://github.com/YusufTarek/Data-analysis-projects**
+###
+---
 
 ## Courses and Certificates
 
-- IELTS (score: 6.5) | Mar 2017
-- Database Fundamentals - MaharaTech - ITIMooca | May 2023
-- Data Analyst Bootcamp - Alex The Analyst | Oct 2023
-- SQL (Basic) Certificate - HackerRank | Oct 2023
-- Intro to Career Skills in Data Analytics - LinkedIn | Nov 2023
-- Data Analytics for Business Professionals - LinkedIn | Nov 2023
-- Intro to SQL - Sololearn | Dec 2023
-- Intermediate SQL - Sololearn | Dec 2023
 - Learn Power BI - Zanoon Lab | Jan 2024
-
+- Intermediate SQL - Sololearn | Dec 2023
+- Intro to SQL - Sololearn | Dec 2023
+- Data Analytics for Business Professionals - LinkedIn | Nov 2023
+- Intro to Career Skills in Data Analytics - LinkedIn | Nov 2023
+- SQL (Basic) Certificate - HackerRank | Oct 2023
+- Data Analyst Bootcamp - Alex The Analyst | Oct 2023
+- Database Fundamentals - MaharaTech - ITIMooca | May 2023
+- IELTS (score: 6.5) | Mar 2017
+---
 ## Skills
+
+- Data collection
+- Data cleaning
+- Data manipulation
+- Data analysis
+- Data visualization
+- Data governance
+- Storytelling with data
+- Problem-solving
+- Analytical thinking
+- Critical thinking
+
+---
+
+## Tools
 
 - SQL
   - Query Optimization
@@ -55,6 +69,9 @@
   - Charts and graphs
   - Conditional formatting
 
+---
+
+
 ## Other Skills
 
 - Detail-oriented
@@ -65,24 +82,5 @@
 - Documentation writing
 - Summarizing books
 
-## Tools
+---
 
-- Data collection
-- Data cleaning
-- Data manipulation
-- Data analysis
-- Data visualization
-- Data governance
-- Storytelling with data
-- Problem-solving
-- Analytical thinking
-- Critical thinking
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/yusuftarek)
-- Email: yusuftarek18turk@gmail.com
-- Phone: +201143498042
-- Location: Cairo, Egypt
-
-**Aspiring Junior Data Analyst**
