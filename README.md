@@ -2,7 +2,7 @@
 
 Hello! I'm Yusuf Tarek, a dedicated computer science graduate with a passion for Business Intelligence (**BI**) and **data analysis**. I bring a diverse skill set, combining proficiency in **SQL**, **Power BI**, **Python**, and **Excel**. With a solid background in IT support, I've honed my technical skills and gained hands-on experience.
 
-My academic journey was concluded with a graduation project focusing on image classification using Convolutional Neural Networks (CNN). Skills were further enhanced through a diverse array of **courses** and **certifications**, encompassing **IELTS**, **Database Fundamentals**, and participation in a **Data Analyst Bootcamp**.
+My academic journey was concluded with a graduation project focusing on image classification using Convolutional Neural Networks (CNN). Skills were further enhanced through a diverse array of **courses** and **certifications**, encompassing IELTS, **Database Fundamentals**, and participation in a **Data Analyst Bootcamp**.
 
 In the domain of data analysis, diverse **projects** were undertaken, including those related to: 
   Bike sales
@@ -25,7 +25,7 @@ As a junior **data analyst**, I'm eager to contribute my **analytical** and **pr
 
 ## Courses and Certificates
 
-- Learn **Power BI** - Zanoon Lab | Jan 2024
+- Learn **Power BI** - Zanoon Lab | Feb 2024
 - Intermediate **SQL** - Sololearn | Dec 2023
 - Intro to **SQL** - Sololearn | Dec 2023
 - **Data Analytics** for Business Professionals - LinkedIn | Nov 2023
