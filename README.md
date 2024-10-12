@@ -26,13 +26,13 @@ As a junior **data analyst**, I'm eager to contribute my **analytical** and **pr
 ## Courses and Certificates
 
 - Learn **Power BI** - Zanoon Lab | Feb 2024
-- Intermediate **SQL** - Sololearn | Dec 2023
-- Intro to **SQL** - Sololearn | Dec 2023
-- **Data Analytics** for Business Professionals - LinkedIn | Nov 2023
-- Intro to Career Skills in **Data Analytics** - LinkedIn | Nov 2023
+- Intermediate **SQL** - [Sololearn](https://www.sololearn.com/en/certificates/CC-IKHXQYBD) | Dec 2023
+- Intro to **SQL** - [Sololearn](https://www.sololearn.com/certificates/CC-BRRX4P2Q) | Dec 2023
+- **Data Analytics** for Business Professionals - [LinkedIn](https://www.linkedin.com/learning/certificates/a273bbfdf47fd6993c076562016d97195b987a5f0f4d3603d6f785fa7fdf8063?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BILod1HY2QKWJEMhaYvRn%2Bg%3D%3D) | Nov 2023
+- Intro to Career Skills in **Data Analytics** - [LinkedIn](https://www.linkedin.com/learning/certificates/5f79645f986ef9fa5e4d61ac065881470b58f15da0ee60759d0b549c01a6112c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BILod1HY2QKWJEMhaYvRn%2Bg%3D%3D) | Nov 2023
 - **SQL** (Basic) Certificate - [HackerRank](https://www.hackerrank.com/certificates/7c8917c3e925) | Oct 2023
 - **Data Analyst** Bootcamp - Alex The Analyst | Oct 2023
-- **Database** Fundamentals - MaharaTech - ITIMooca | May 2023
+- **Database** Fundamentals - [MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=162686&code=1yYY28nkRf&qrcode=1) - ITIMooca | May 2023
 - IELTS (score: 6.5) | Mar 2017
 ---
 ## Skills
