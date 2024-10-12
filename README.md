@@ -1,6 +1,6 @@
 # Yusuf Tarek - Data Analyst
 
-Hello! I'm Yusuf Tarek, a dedicated computer science graduate with a passion for Business Intelligence (**BI**) and **data analysis**. I bring a diverse skill set, combining proficiency in **SQL**, **Power BI**, **Python**, and **Excel**. With a solid background in IT support, I've honed my technical skills and gained hands-on experience.
+Hello! I'm [Yusuf Tarek](https://drive.google.com/file/d/1kroKHTm2gRgBJ9oF-ig3dDdwZKSfyMz4/view?usp=drive_link), a dedicated computer science graduate with a passion for Business Intelligence (**BI**) and **data analysis**. I bring a diverse skill set, combining proficiency in **SQL**, **Power BI**, **Python**, and **Excel**. With a solid background in IT support, I've honed my technical skills and gained hands-on experience.
 
 My academic journey was concluded with a graduation project focusing on image classification using Convolutional Neural Networks (CNN). Skills were further enhanced through a diverse array of **courses** and **certifications**, encompassing IELTS, **Database Fundamentals**, and participation in a **Data Analyst Bootcamp**.
 
@@ -17,10 +17,10 @@ As a junior **data analyst**, I'm eager to contribute my **analytical** and **pr
 ---
 
 
-## Projects
-###
+## [Projects](https://github.com/YusufTarek/Data-analysis-projects)
+<!--###
 **https://github.com/YusufTarek/Data-analysis-projects**
-###
+###-->
 ---
 
 ## Courses and Certificates
@@ -30,7 +30,7 @@ As a junior **data analyst**, I'm eager to contribute my **analytical** and **pr
 - Intro to **SQL** - Sololearn | Dec 2023
 - **Data Analytics** for Business Professionals - LinkedIn | Nov 2023
 - Intro to Career Skills in **Data Analytics** - LinkedIn | Nov 2023
-- **SQL** (Basic) Certificate - HackerRank | Oct 2023
+- **SQL** (Basic) Certificate - [HackerRank](https://www.hackerrank.com/certificates/7c8917c3e925) | Oct 2023
 - **Data Analyst** Bootcamp - Alex The Analyst | Oct 2023
 - **Database** Fundamentals - MaharaTech - ITIMooca | May 2023
 - IELTS (score: 6.5) | Mar 2017
